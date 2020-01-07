@@ -2,6 +2,7 @@ theme: jekyll-theme-modernist
 
 title: "SHA-1 is a Shambles"
 description: " "
+image: https://contrib.pother.ca/SHA-mbles.github.io/SHA-mbles.png
 
 github:
   is_project_page: false
